@@ -1,11 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Dangerous Snakes</title>
-<style type="text/css">
 @charset "UTF-8";
 .container {
 	background-color: #FFFFFF;
@@ -465,67 +457,3 @@ body {
 }
 #menu {
 }
-
-</style>
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-</head>
-<body bgcolor="#000000" link="#2A00FF">
-<div class="container">
-  <div style="color:darkred; background-color: darkred">
-	  <h1 style="color: black; font-family: nosifer; font-size: 80px; background: darkred"> <center> DANGEROUS SNAKES</center></h1>
-      <img src="img/ds.jpg" alt="" width="680" height="340" class="placeholder"/> </aside>
-    </div>
-    <nav class="secondary_header" id="menu">
-      <ul>
-		<li> <a href="about.html"> ABOUT THE SNAKES </a></li>
-        <li> MEMBERS </li>
-        <li>CLUBOUTFIT</li>
-        <li>GALERIE </li>
-        <li>EVENTS</li>
-        <li>KALENDER</li>
-        <li>STALLBUCH </li>
-      </ul>
-  </nav>
-  </header>
-  <section>
-    <h2 class="noDisplay">Main Content</h2>
-    <article class="left_article">
-      <h3>wilkommen bei den Dangerous Snakes</h3>
-      <p> Du möchtest mehr über uns wissen? 
-      </p>
-      <p> Dann bist du hier richtig !</p>
-      <p> Wir sind ein kleiner, aber chaotischer Club in der Star-Stable Online Welt. Gegründet wurden die 'Dangerous Snakes' am 01.09.2014 von Athena Darkgarden zusammen mit Holly Graydaughter, die Athena am Meisten dabei unterstützt uns in Schach zu halten, was natürlich nicht immer klappt.</p>
-      <p> Da unsere Chefin uns nicht immer ruhig halten kann, schaffen wir es immer wieder die Star Stable Online Welt ein wenig unsicherer zu machen, als sie eigentlich schon ist. Dadurch wird es bei uns nie langweilig. Spaß ist bei uns nunmal schon vorprogrammiert.</p>
-    </article>
-    <aside class="right_article"><img src="img/image.jpg" alt="" width="680" height="340" class="placeholder"/> </aside>
-  </section>
-  <div class="row">
-    <div class="columns">
-      <p class="thumbnail_align"> <img src="img/11048728_1758313574395342_4558135050572517573_n.jpg" alt="" class="thumbnail"/> </p>
-      <h4> <a href="about.html"> Zusammenhalt und Respekt</a></h4>
-      <p>Wir sind eine Familie. Das bedeutete, dass wir uns mit Respekt behandeln, aber nicht nur wir behandeln uns mit respekt, sondern auch die anderen Spielen. Des weiteren helfen wir uns gegenseitig...</p>
-    </div>
-    <div class="columns">
-      <p class="thumbnail_align"> <img src="img/ssochat.jpg" alt="" class="thumbnail"/> </p>
-      <h4> <a href="about.html"> Chats</a></h4>
-      <p>Wie ihr euch vorstellen könnt, sollet ihr nicht nur im Clubchat freundlichen sein, sonderen auch im Global- und Sagchat. </p> 
-      <p> Haltet euch bitte aus Streierein raus und versucht, fals ihr Problem habt, sie untereinander zu regeln und nicht mit der halben Star Stable Welt...</p>
-    </div>
-    <div class="columns">
-      <p class="thumbnail_align"> <img src="img/10916356_1699363253623708_5642537229206175361_o.jpg" alt="" class="thumbnail"/> </p>
-      <h4> <a href="about.html"> Clubjumper </a></h4>
-      <p>Clubjumper aka Clubspringer sind bei uns nicht gern gesehen, denn wir sind ein familiärer Club. Natürlich ist es jedem frei erlaubt, ob der in dem Club bleiben will oder nicht, aber wenn man den Club verlässt, sollte man auch eine Begründung haben...</p>
-    </div>
-    <div class="columns">
-      <p class="thumbnail_align"> <img src="img/10999327_1765558730337493_2216788715380073502_n.jpg" alt="" class="thumbnail"/> </p>
-	  <h4> <a href="about.html"> Accountdaten</a></h4>
-      <p>Diesbezüglich sollte nicht viel zu sagen sein, denn über das Thema steht auch etwas in den Star Stable Rechtlinien (AGB's). Behaltet eure Daten für euch.</p>
-      <p>Im Endefekt ist es immer besser die AGB's (denen man zugestimmt hat) zu befolgen, denn sie wurden nicht ohne Grund geschrieben...</p>
-    </div>
-  </body>
-</html>
